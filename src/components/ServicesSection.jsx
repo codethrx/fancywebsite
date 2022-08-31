@@ -23,7 +23,6 @@ function ServicesSection() {
   }
   return (
     <Services
-      style={{ background: "green" }}
       variants={fadeAnimation}
       ref={element}
       initial="hidden"
